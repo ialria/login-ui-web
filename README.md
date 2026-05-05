@@ -29,7 +29,7 @@ Login Page
 ![Login Page](screenshots/login.png)
 
 Alternative Login Design
-![Login Alt](screenshots/login-alt.png)
+![Login Alt](screenshots/login_alt.png)
 
 Register Page
 ![Register Page](screenshots/register.png)
